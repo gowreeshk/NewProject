@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;a&apos; in &apos;bye.amazon.main(...)&apos; to &apos;driver&apos;&#x0D;&#x0A;- Original project: &apos;bye&apos;&#x0D;&#x0A;- Original element: &apos;bye.amazon.main(String[]).a&apos;&#x0D;&#x0A;- Renamed element: &apos;a&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename local variable &apos;a&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src\/test\/java=/optional=/true=/=/maven.pomderived=/true=/=/test=/true=/&lt;bye{amazon.java[amazon~main~\[QString;@a!351!383!361!361!QWebDriver;!0!false" name="driver" references="true" stamp="1639547014122" version="1.0"/>
+</session>

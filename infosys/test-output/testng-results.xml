@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="3" total="5" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-03-12T10:57:45Z" name="Suite" finished-at="2022-03-12T10:57:45Z" duration-ms="23">
+    <groups>
+    </groups>
+    <test started-at="2022-03-12T10:57:45Z" name="Test" finished-at="2022-03-12T10:57:45Z" duration-ms="23">
+      <class name="infosys.testCl">
+        <test-method signature="abc()[pri:0, instance:infosys.testCl@4145bad8]" started-at="2022-03-12T10:57:45Z" name="abc" finished-at="2022-03-12T10:57:45Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- abc -->
+      </class> <!-- infosys.testCl -->
+      <class name="infosys.TestCi2">
+        <test-method signature="a()[pri:0, instance:infosys.TestCi2@63376bed]" started-at="2022-03-12T10:57:45Z" name="a" finished-at="2022-03-12T10:57:45Z" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- a -->
+      </class> <!-- infosys.TestCi2 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

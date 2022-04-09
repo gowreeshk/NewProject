@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-03-27T06:36:58Z" name="Default suite" finished-at="2022-03-27T06:36:58Z" duration-ms="34">
+    <groups>
+    </groups>
+    <test started-at="2022-03-27T06:36:58Z" name="Default test" finished-at="2022-03-27T06:36:58Z" duration-ms="34">
+      <class name="bye.Collection_Interface_Array_List">
+        <test-method signature="m1()[pri:0, instance:bye.Collection_Interface_Array_List@6bbe85a8]" started-at="2022-03-27T06:36:58Z" name="m1" finished-at="2022-03-27T06:36:58Z" duration-ms="11" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m1 -->
+      </class> <!-- bye.Collection_Interface_Array_List -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

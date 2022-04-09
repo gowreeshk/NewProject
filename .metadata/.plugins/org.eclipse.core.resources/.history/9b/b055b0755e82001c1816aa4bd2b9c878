@@ -1,0 +1,18 @@
+
+public class DemoForLoop {
+	
+	static {
+		System.out.println("Hello I Can Print ");
+	}
+
+//	public static void main(String[] args) {
+//		
+//		for (int i = 0; i <=100; i++) {
+//			
+//			System.out.println(i+" Gowreesh");
+//			
+//		}
+//		
+//	}
+
+}
